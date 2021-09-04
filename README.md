@@ -2,7 +2,10 @@
 <img src="bio2_gif.gif" width="1000">
 
 
-### Hi there 👋
+💙🦊bluevulpe junior develooer VLOG📽💙<br>
+### OVER 30 CONTENTS UPLOADED DONE ### <br>
+💙🦊bluevulpe Tech BLOG💻✒💙<br>
+### OVER 100 CONTENTS UPLOADED DONE ### <br>
 
 <!--
 **gygy7151/gygy7151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
