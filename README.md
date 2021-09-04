@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/SDkF4R4RfghWuILGS3/giphy.mp4>
+![initial](https://media.giphy.com/media/SDkF4R4RfghWuILGS3/giphy.mp4)
 
 
 ### Hi there 👋
