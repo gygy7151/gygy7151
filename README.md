@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 <img src="bio2_gif.gif" width="1000">
 
 
