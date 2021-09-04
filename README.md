@@ -1,6 +1,5 @@
 
-
-![initial](https://media.giphy.com/media/SDkF4R4RfghWuILGS3/giphy.mp4)
+<img src="bio2_gif.gif">
 
 
 ### Hi there 👋
