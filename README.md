@@ -1,5 +1,5 @@
 
-<img src="bio2_gif.gif" width="700">
+<img src="bio2_gif.gif" width="1000">
 
 
 ### Hi there 👋
