@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 <img src="bio2_gif.gif" width="1000">
 
-
-💙🦊bluevulpe junior develooer VLOG📽💙<br>
+<a target="_blank" href="https://foxvox.tistory.com/"> 💙🦊bluevulpe junior develooer VLOG📽💙</a><br>
 ### OVER 30 CONTENTS UPLOADED DONE ### <br>
-💙🦊bluevulpe Tech BLOG💻✒💙<br>
+<a target="_blank" href="https://www.youtube.com/channel/UC8tyIHA9NzE3FcttppU8Wfg"> 💙🦊bluevulpe Tech BLOG💻✒💙</a><br>
 ### OVER 100 CONTENTS UPLOADED DONE ### <br>
 
 <!--
