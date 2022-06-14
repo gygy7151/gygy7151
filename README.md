@@ -21,8 +21,7 @@ Frontend Engineer <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feungyucho%2Fhit-counter&count_bg=%23E9A61A&title_bg=%23BDC1E1&icon=&icon_color=%23DBAC2D&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </p>
 
-  ![gygy7151's github stats](https://github-readme-stats.vercel.app/api?username=EungyuCho&show_icons=true)
-  [![gygy7151's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gygy7151&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gygy7151)
+  ![gygy7151's github stats](https://github-readme-stats.vercel.app/api?username=EungyuCho&show_icons=true)![gygy7151's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gygy7151&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gygy7151)
 
 
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
