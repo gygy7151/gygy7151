@@ -1,8 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 <img src="bio2_gif.gif" width="1000">
-<a target="_blank" href="https://foxvox.tistory.com/"> 💙🦊bluevulpe junior develooer VLOG📽💙</a><br>
-<a target="_blank" href="https://www.youtube.com/channel/UC8tyIHA9NzE3FcttppU8Wfg"> 💙🦊bluevulpe Tech BLOG💻✒💙</a><br>
-
 
 ![header](https://capsule-render.vercel.app/api?&type=wave&color=gradient&text=Davey&height=300)
 
@@ -24,8 +21,9 @@ Frontend Engineer <br>
   <a href="mailto:gygy7151@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gygy7151@gmail.com"/></a>
 <p>
 
-  ![gygy7151's github stats](https://github-readme-stats.vercel.app/api?username=gygy7151&show_icons=true)
-
+![gygy7151's github stats](https://github-readme-stats.vercel.app/api?username=gygy7151&show_icons=true)
+<a target="_blank" href="https://foxvox.tistory.com/"> 💙🦊bluevulpe junior develooer VLOG📽💙</a><br>
+<a target="_blank" href="https://www.youtube.com/channel/UC8tyIHA9NzE3FcttppU8Wfg"> 💙🦊bluevulpe Tech BLOG💻✒💙</a><br>
 <!--
 **gygy7151/gygy7151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
