@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=gygy7151)](https://github.com/ryo-ma/github-profile-trophy)
 ![gygy7151's github stats](https://github-readme-stats.vercel.app/api?username=gygy7151&show_icons=true)
 [![gygy7151's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gygy7151&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gygy7151)
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
