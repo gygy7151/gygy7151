@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 <img src="bio2_gif.gif" width="1000">
-
+![header](https://capsule-render.vercel.app/api?&type=wave&color=gradient&text=Davey&height=300)
 <p align="center">
-<h1>Davey<h1>
+Davey
 Frontend Engineer <br>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
