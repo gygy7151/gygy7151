@@ -22,6 +22,7 @@ Frontend Engineer <br>
 <p>
 
 ![gygy7151's github stats](https://github-readme-stats.vercel.app/api?username=gygy7151&show_icons=true)
+<br>
 <a target="_blank" href="https://foxvox.tistory.com/"> 💙🦊bluevulpe junior develooer VLOG📽💙</a><br>
 <a target="_blank" href="https://www.youtube.com/channel/UC8tyIHA9NzE3FcttppU8Wfg"> 💙🦊bluevulpe Tech BLOG💻✒💙</a><br>
 <!--
