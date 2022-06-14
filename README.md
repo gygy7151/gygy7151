@@ -17,11 +17,10 @@ Frontend Engineer <br>
   
 <p align="center">
   <a href="mailto:gygy7151@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gygy7151@gmail.com"/></a>
- 
+<p>
 
   ![gygy7151's github stats](https://github-readme-stats.vercel.app/api?username=gygy7151&show_icons=true)
 
-<p>
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 <img src="bio2_gif.gif" width="1000">
 <a target="_blank" href="https://foxvox.tistory.com/"> 💙🦊bluevulpe junior develooer VLOG📽💙</a><br>
