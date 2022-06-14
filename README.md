@@ -2,6 +2,7 @@
 <img src="bio2_gif.gif" width="1000">
 
 <p align="center">
+<h1>Davey<h1>
 Frontend Engineer <br>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
