@@ -9,7 +9,7 @@ Frontend Engineer <br>
 <p align="center">
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?&logo=Javascript&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-Python-3178C6?&logo=Typescript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Python-3178C6?&logo=Python&logoColor=white"/></a>&nbsp
   <!--<img src="https://img.shields.io/badge/-Nextjs-000000?&logo=Next.js&logoColor=white"/></a>&nbsp-->
 </p>
 
